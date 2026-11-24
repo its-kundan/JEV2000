@@ -1,0 +1,4 @@
+seed: 42
+ticket_count: 12000
+top_k: 15
+confidence_threshold: 0.70
